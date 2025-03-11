@@ -1,7 +1,7 @@
 # discordのnukebotです
 pythonとか分からない人でも使えるようになるべくコメント書いてます<br>
 ちなみにreplitや、Termux(Android)を使えばスマホでも実行できます<br>
-一応、replit、Termuxを使った実行方法を書いときます<br>
+一応、replit、Termuxを使った実行方法も書いときます<br>
 <h2>機能</h2>
 <ul>
   !help　使い方を確認できます<br>
