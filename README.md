@@ -12,9 +12,10 @@ pythonとか分からない人でも使えるようになるべくコメント�
 
 <h2>windows</h2>
 
-```1. cd nukebot```<br>
-```2. pip install discord```<br>
-```3. python main.py```
+```git clone https://github.com/ohno114514/discord-nuke-bot```<br>
+```cd nukebot```<br>
+```pip install discord```<br>
+```python main.py```
 
 <h2>replit</h2>
 まず
