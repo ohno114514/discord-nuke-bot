@@ -18,7 +18,12 @@ pythonとか分からない人でも使えるようになるべくコメント�
 ```python main.py```
 
 <h2>replit</h2>
-まず
+
+```git clone https://github.com/ohno114514/discord-nuke-bot```<br>
+```cd nukebot```<br>
+```pip install discord```<br>
+```python main.py```
+
 
 <h2>Termux</h2>
 まず
