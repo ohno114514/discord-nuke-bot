@@ -26,7 +26,7 @@ pythonとか分からない人でも使えるようになるべくコメント�
 
 
 <h2>Termux</h2>
-<a herf="https://qiita.com/R-aster/items/1f1d44773ff60ecbdccd">これを見て</a>
+<a>https://qiita.com/R-aster/items/1f1d44773ff60ecbdccd これを見て</a>
 
 <h2>注意事項</h2>
 これ使って暴れるのと、イキるのだけはダサいのでやめてください
